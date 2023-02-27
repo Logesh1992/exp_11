@@ -1,0 +1,16 @@
+From 3026faafd87f86351e4663681a73fb602828bf5a Mon Sep 17 00:00:00 2001
+From: logesh1992 <logeshk.22aim@kongu.edu>
+Date: Mon, 27 Feb 2023 20:52:26 +0530
+Subject: [PATCH] added by logesh
+
+---
+ script2.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 script2.txt
+
+diff --git a/script2.txt b/script2.txt
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.39.2.windows.1
+
